@@ -1,0 +1,2 @@
+# Rusty-Bargain---ML-Based-Used-Car-Price-Estimatior-sprint14
+Rusty Bargain is a second-hand car sales service developing a mobile application aimed at helping customers quickly estimate the market value of their used vehicles. This project involves building and evaluating machine learning models to predict car prices based on technical specifications, historical data, and other features available in the app.
